@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 PASS_BACK=$1 # пароль backend
 PASS_FRONT=$2 # пароль frontend
