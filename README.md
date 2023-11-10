@@ -3,7 +3,7 @@ Cкрипт для новых впсок
 
 ## Загрузка:
 ```bash
-wget https://raw.githubusercontent.com/M-II-M/for_new_vps/main/base_config.sh && chmod +x add_user.sh
+wget https://raw.githubusercontent.com/M-II-M/for_new_vps/main/base_config.sh && chmod +x base_config.sh
 ```
 ## Запуск:
 ```bash
