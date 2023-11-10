@@ -1,8 +1,11 @@
 # new_vps
 Cкрипт для новых впсок
 
-Запуск:
+## Загрузка:
 ```bash
-wget https://raw.githubusercontent.com/M-II-M/new_vps_users/main/add_user.sh && chmod +x add_user.sh
-./base_config.sh
+wget https://raw.githubusercontent.com/M-II-M/for_new_vps/main/base_config.sh && chmod +x add_user.sh
+```
+## Запуск:
+```bash
+./base_config.sh {B_PASS} {F_PASS}
 ```
