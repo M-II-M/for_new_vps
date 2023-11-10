@@ -1,6 +1,8 @@
-# new_vps_users
-скрипт для создане юзеров и группы
+# new_vps
+Cкрипт для новых впсок
 
-
-запуск:/n
-wget -O - https://raw.githubusercontent.com/M-II-M/new_vps_users/main/add_user.sh?token=GHSAT0AAAAAACKEBB2ZSNENLCBFFOKCFZ5KZKOCX7A | bash
+Запуск:
+'''bash
+wget https://raw.githubusercontent.com/M-II-M/new_vps_users/main/add_user.sh && chmod +x add_user.sh
+./base_config.sh
+'''
